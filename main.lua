@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 local UNDER_MAP_Y = -500
-local TELEPORT_COOLDOWN = 5 
+local TELEPORT_COOLDOWN = 10 
 local lastTeleport = 0
 
 
